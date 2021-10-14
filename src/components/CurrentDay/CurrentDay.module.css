@@ -1,0 +1,16 @@
+.weekday {
+    width: 100px;
+}
+
+.temperature {
+    font-size: 7rem;
+}
+
+.temp {
+    font-size: 3rem;
+    color: rgb(204, 204, 204);
+}
+
+.day_date {
+    font-size: 0.7rem;
+}

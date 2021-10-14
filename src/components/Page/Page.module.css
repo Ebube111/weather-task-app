@@ -1,0 +1,18 @@
+.box {
+    background-color: rgba(30, 33, 58, 1);
+    height: 100vh;
+}
+
+.box2 {
+    background-color: #100e1d;
+    width: 100%;
+    padding: 4rem;
+}
+
+.currentday {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+.weekday {
+    width: 80%;
+    box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.1);
+    background-color: rgba(30, 33, 58, 1);
+    padding: 2rem;
+}
+
+@media screen and (max-width: 575px) {
+    .weekday {
+        padding: 2rem;
+    }
+}
+
+/* .weekday:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    background: #fff;
+    color: #222831;
+
+    -webkit-box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.2);
+} */

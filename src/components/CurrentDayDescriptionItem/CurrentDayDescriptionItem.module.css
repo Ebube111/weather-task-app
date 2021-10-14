@@ -1,0 +1,20 @@
+/* your css code */
+.root {
+    width: 80%;
+    box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.1);
+    background-color: rgba(30, 33, 58, 1);
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+    padding: 3rem;
+}
+
+.name {
+    font-size: 0.8rem;
+}
+
+.units {
+    font-size: 2rem;
+}
