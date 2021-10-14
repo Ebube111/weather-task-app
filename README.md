@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Weather App</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://investondaba.notion.site/daba-Front-End-Advanced-Test-1-e75b281f295e4457acac147d70312ee2" target="_blank">daba front end advanced coding exercise</a>.
