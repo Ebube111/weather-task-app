@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://youtu.be/M9I-RmCzgVE">
       Solution
     </a>
     <span> | </span>
