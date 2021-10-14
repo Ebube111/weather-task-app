@@ -39,7 +39,7 @@ const Page = () => {
                                 <img src="/assets/apple-touch-icon.png" height="50" alt="" />
                             </div>
                             <h6 className="font-weight-light text-white-50">
-                                Click the search bar to the right, type in your location and search for the weather
+                                Click the search bar to the left, type in your location and search for the weather
                             </h6>
                         </div>
                     )}
